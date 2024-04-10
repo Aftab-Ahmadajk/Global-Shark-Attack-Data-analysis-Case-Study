@@ -10,14 +10,14 @@ The marine environment offers a captivating and exhilarating setting for various
 In the realm of data analysis, one captivating domain that requires thorough exploration is the occurrence and trends of shark attacks worldwide. As a data analyst, I embark on an intriguing journey to unravel the mysteries surrounding these incidents. With a keen focus on multiple countries, my aim is to decipher the patterns and characteristics of major shark attacks, while paying particular attention to the types of sharks that frequently engage in such encounters. By meticulously examining and interpreting the available data, I hope to shed light on the complex dynamics between humans and sharks, thus contributing to a deeper understanding of these occurrences. 
 ![Sample Image](./Images/pic-02.png)
 
-# **``Ask``**
+# **``Ask``**:
 ### Key Task ###
 In the context of the marine landscape, how can effective measures be implemented to minimize the risk of shark encounters and ensure the safety of humans?
 
 ### Objectives ###
 The main objective needs to be analyzed to pave the way for informed decision-making and the implementation of effective measures to mitigate the risks associated with shark attacks on a global scale. The key findings will be crucial for humans who somehow make activities in marine environments. One of the objectives is to provide a clear picture of the actual threat presented by sharks to humans.
 
-# **``Prepare``**
+# **``Prepare``**:
 ### Source of Data:
 The data was gathered for analysis from the Global Shark Attack File website. The Link for accessing this data is [GSAF](https://sharkattackfile.net/incidentlog.htm). This is public data that analysts can use to explore ways to protect humans from shark attacks.
 ### Data Description:
@@ -29,46 +29,45 @@ The data used for this project meets the ROCC standards of integrity. The Global
 # **``Process``**:
 Global Shark Attack File (GSAF) is maintained in Excel file format. It will be better option to clean and make analysis using PowerBI tools. Also, I will thoroughly make analysis using a pivot table.
 
-### Data Exploration.
+### Data Exploration
 To take data into Power Query Editor I opened Microsoft Excel and navigated to the Data tab. After take into Power Query Editor data has been thoroughly checked to ensure the accuracy and integrity of the dataset by verifying the column names. 
 During data exploration Initially, data set contains 6968 rows and 23 columns. I thoroughly checked each column of the data set there were lot of inconsistencies need to be handled.
 
-### Data Cleaning.
+### Data Cleaning
 - Removed inconsistencies from data and replaced inappropriate data.
 - Changed the data types of columns where required.
 - There were no duplicate values in the dataset but action removing duplicates is applied.
 - Removed the 12 unwanted columns from the dataset. 
 - Hundreds of inconsistencies removed from species column.
  
-# **``Analyze``**
+# **``Analyze``**:
 In this step I analyzed the cleaned data set, to get a better understanding of its characteristics and patterns.
 ### Total Number of Registered Cases
 ![Sample Image](./Images/ana-01.jpg)
-
 There are a total of 6798 recorded cases in the Global Shark Attack File (GSAF).  Data for the 1500s is also available.   It has been observed that not many cases were reported before the 1900s.  It has also been observed that the cases were not included in the GSAF file since September 2022. These unregistered cases have been excluded from the analysis.
+
 ### Type of Sharks Involved in most Attacks
 ![Sample Image](./Images/ana-02.jpg)
-
 In most shark attacks where the species are not identified. This is because the victims were in unknown locations or people / authorities did not know which type of shark lived there. Total count of unknown species are 4467. As per GSAF a very small percentage of shark species, about two dozen, are considered potentially dangerous to humans because of their size and dentition, yet White shark was found most dangerous followed by the Tiger shark and Bull shark.
+
 ### Types of Shark’s Attacks
 ![Sample Image](./Images/ana-03.png)
-
 It has been observed that a very small percentage of shark species, about two dozen, are considered potentially dangerous to humans due to their size and teeth.  Many people are killed by sharks every year.  It has been observed that most shark attacks are unprovoked. Out of the 6798 cases analyzed, only 4990 cases were Where the shark attacked the victims unprovoked and 623 cases were provoked.
+
 ### Activities of Human before Shark’s Attacks
 ![Sample Image](./Images/ana-04.jpg)
-
 According to the Global Shark Attack File (GSAF), since the 1700s, the most frequent activities of victims of shark attacks are surfing, swimming, fishing, spearfishing and Bathing.  The main activities are surfing and swimming.
+
 ### Country wise Shark Attacks
 ![Sample Image](./Images/ana-05.jpg)
-
 With its extensive coastline and numerous lakes and ponds, the United States was the top country for shark attacked on humans. 2474 people were killed/wounded in shark attacks in America, 1452 in Australia and 593 in South Africa. In USA Florida California and Hawaii are the top choices for swimmers. The average number of shark attacks in the USA is around 40 per year.
+
 ### Gender Wise Ratio of Victims
 ![Sample Image](./Images/ana-06.jpg)
-
 It has been observed that most of the victims of shark attacks are 80.55% men 10.94 % are women. This may be because males are generally more likely to engage in activities that keep them close to sharks. Like surfing, catching a spear, or diving into deep waters. Men often participate in water activities in groups, which can be misidentified by sharks as a struggling animal, triggering a feeding response.
+
 ### Age wise victims of Shark Attack
 ![Sample Image](./Images/ana-07.jpg)
-
 It is observed that people ages from 13 to 35 years are most killed by shark. This is because young people are more involved in activities i.e. surfing, swimming, fishing and bathing etc. that is why they were killed by Shark.
 
 ## **Summary of Analysis**:
@@ -80,11 +79,11 @@ Based on the analysis of global shark attacks data, here is a summary of analysi
 -	Of the total Shark attacks, 80.55% were on men and 10.% on women.
 -	Men and women between the ages of 12 and 35 were killed/wounded the most.
 
-# **``Share``**
+# **``Share``**:
 Based on the analysis of global shark attack data, I have created a comprehensive dashboard that presents all the data in a unified perspective. Which helps and empowers users to make informed decisions to save their lives from sharks while performing activities in the marine ecosystem.
 ![Sample Image](./Images/Dashabord_shark_attack_file.jpg)
 
-# **``Act``**
+# **``Act``**:
 The end of the analysis involves gaining insights and providing safe measures from shark attacks to the general public who are even eager to perform recreational activities in coastal areas around the world.
 Based on the Shark attack data analysis I recommend the following safety measures that will help individuals/groups engaging in entertainment activities in marine ecosystem.
 •	Familiarize yourself with the shark species and their behavior in the areas where you plan to engage in water activities. Understanding their patterns can help someone to make informed decision making about when and where to swim or participate in water activities.
