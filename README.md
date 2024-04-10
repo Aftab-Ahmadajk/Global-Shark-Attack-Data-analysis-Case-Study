@@ -44,30 +44,37 @@ During data exploration Initially, data set contains 6968 rows and 23 columns. I
 In this step I analyzed the cleaned data set, to get a better understanding of its characteristics and patterns.
 ### Total Number of Registered Cases
 ![Sample Image](./Images/ana-01.jpg)
+
 There are a total of 6798 recorded cases in the Global Shark Attack File (GSAF).  Data for the 1500s is also available.   It has been observed that not many cases were reported before the 1900s.  It has also been observed that the cases were not included in the GSAF file since September 2022. These unregistered cases have been excluded from the analysis.
 
 ### Type of Sharks Involved in most Attacks
 ![Sample Image](./Images/ana-02.jpg)
+
 In most shark attacks where the species are not identified. This is because the victims were in unknown locations or people / authorities did not know which type of shark lived there. Total count of unknown species are 4467. As per GSAF a very small percentage of shark species, about two dozen, are considered potentially dangerous to humans because of their size and dentition, yet White shark was found most dangerous followed by the Tiger shark and Bull shark.
 
 ### Types of Shark’s Attacks
 ![Sample Image](./Images/ana-03.png)
+
 It has been observed that a very small percentage of shark species, about two dozen, are considered potentially dangerous to humans due to their size and teeth.  Many people are killed by sharks every year.  It has been observed that most shark attacks are unprovoked. Out of the 6798 cases analyzed, only 4990 cases were Where the shark attacked the victims unprovoked and 623 cases were provoked.
 
-### Activities of Human before Shark’s Attacks
+### Activities of Human before Shark Attacks
 ![Sample Image](./Images/ana-04.jpg)
+
 According to the Global Shark Attack File (GSAF), since the 1700s, the most frequent activities of victims of shark attacks are surfing, swimming, fishing, spearfishing and Bathing.  The main activities are surfing and swimming.
 
 ### Country wise Shark Attacks
 ![Sample Image](./Images/ana-05.jpg)
+
 With its extensive coastline and numerous lakes and ponds, the United States was the top country for shark attacked on humans. 2474 people were killed/wounded in shark attacks in America, 1452 in Australia and 593 in South Africa. In USA Florida California and Hawaii are the top choices for swimmers. The average number of shark attacks in the USA is around 40 per year.
 
 ### Gender Wise Ratio of Victims
 ![Sample Image](./Images/ana-06.jpg)
+
 It has been observed that most of the victims of shark attacks are 80.55% men 10.94 % are women. This may be because males are generally more likely to engage in activities that keep them close to sharks. Like surfing, catching a spear, or diving into deep waters. Men often participate in water activities in groups, which can be misidentified by sharks as a struggling animal, triggering a feeding response.
 
 ### Age wise victims of Shark Attack
 ![Sample Image](./Images/ana-07.jpg)
+
 It is observed that people ages from 13 to 35 years are most killed by shark. This is because young people are more involved in activities i.e. surfing, swimming, fishing and bathing etc. that is why they were killed by Shark.
 
 ## **Summary of Analysis**:
@@ -86,9 +93,9 @@ Based on the analysis of global shark attack data, I have created a comprehensiv
 # **``Act``**:
 The end of the analysis involves gaining insights and providing safe measures from shark attacks to the general public who are even eager to perform recreational activities in coastal areas around the world.
 Based on the Shark attack data analysis I recommend the following safety measures that will help individuals/groups engaging in entertainment activities in marine ecosystem.
-•	Familiarize yourself with the shark species and their behavior in the areas where you plan to engage in water activities. Understanding their patterns can help someone to make informed decision making about when and where to swim or participate in water activities.
-•	Don’t swim in murky water or near areas with known shark activity.
-•	Avoid wearing shiny dresses and jewelry when enter into water that could attract sharks.
+-	Familiarize yourself with the shark species and their behavior in the areas where you plan to engage in water activities. Understanding their patterns can help someone to make informed decision making about when and where to swim or participate in water activities.
+-	Don’t swim in murky water or near areas with known shark activity.
+-	Avoid wearing shiny dresses and jewelry when enter into water that could attract sharks.
 
 
 ## Resources
