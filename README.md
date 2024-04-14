@@ -3,7 +3,7 @@
 ## Date:            10 April, 2024
 ## Contact:         aftabajk@gmail.com
 # **``Introduction``**:
-The marine environment offers a captivating and exhilarating setting for various human activities, ranging from surfing, fishing and swimming  to engaging in recreational games. However, amidst the allure of the marine site, there exists a potential danger zone marked by the presence of marine mammals, particularly sharks, which occasionally pose a threat to human safety. Understanding and analyzing the major occurrences and trends of shark attacks across the globe is essential in order to mitigate these risks effectively. By delving into the depths of shark attack data analysis, this study aims to shed light on the patterns and characteristics of these incidents, providing valuable insights that can help safeguard human interactions with marine mammals while preserving the delicate balance of our ecosystems.
+The marine environment offers a captivating and exhilarating setting for various human activities, ranging from surfing, fishing and swimming  to engaging in recreational games. However, amidst the allure of the marine site, there exists a potential danger zone marked by the presence of marine mammals, particularly sharks, which occasionally pose a threat to human safety. Understanding and analyzing the major occurrences and trends of shark attacks across the globe is essential in order to mitigate these risks effectively. By delving into the depths of shark attack data analysis, this study aims to shed light on the patterns and characteristics of these incidents, providing valuable insights that can help safeguard human interactions with marine mammals while preserving the delicate balance of our ecosystems. To find valuable insights I will follow the six steps of the data analysis process : Ask, Prepare, Process, Analyze, Share, and Act.
 ![Sample Image](./Images/pic-01.jpg)
 
 # Scenario
@@ -11,6 +11,7 @@ In the realm of data analysis, one captivating domain that requires thorough exp
 ![Sample Image](./Images/pic-02.png)
 
 # **``Ask``**:
+Global Shark Attack File (GSAF) is created by a group of physicians, surgeons, and medical examiners. The purpose of the Global Shark Attack File (GSAF) is to analyze data to demonstrate and emphasize the likelihood of shark/human interactions in comparison to the myriad dangers that we face in our daily lives. With a better understanding of these interactions  we can minimize the possibility of being injured by a shark, and shift the discussion from fear to conservation of all shark species worldwide.
 ### Key Task ###
 In the context of the marine landscape, how can effective measures be implemented to minimize the risk of shark encounters and ensure the safety of humans?
 
@@ -78,7 +79,7 @@ It has been observed that most of the victims of shark attacks are 80.55% men 10
 It is observed that people ages from 13 to 35 years are most killed by shark. This is because young people are more involved in activities i.e. surfing, swimming, fishing and bathing etc. that is why they were killed by Shark.
 
 ## **Summary of Analysis**:
-Based on the analysis of global shark attacks data, here is a summary of analysis.
+Based on the analysis of global shark attack data, here is a summary of analysis.
 - White shark was found the most dangerous species followed by the Tiger shark and Bull shark.
 -	Out of the total 6,798 cases, 4,990 cases were unprovoked and only 623 cases were provoked.
 -	The most frequent activities of the victims were surfing, swimming, fishing, spearfishing and bathing.
@@ -93,7 +94,7 @@ Based on the analysis of global shark attack data, I have created a comprehensiv
 # **``Act``**:
 The end of the analysis involves gaining insights and providing safe measures from shark attacks to the general public who are even eager to perform recreational activities in coastal areas around the world.
 Based on the Shark attack data analysis I recommend the following safety measures that will help individuals/groups engaging in entertainment activities in marine ecosystem.
--	Familiarize yourself with the shark species and their behavior in the areas where you plan to engage in water activities. Understanding their patterns can help someone to make informed decision making about when and where to swim or participate in water activities.
+-	Familiarize yourself with the shark species and their behavior in the areas where you plan to engage in water activities. Understanding their patterns can help someone to make informed decision-making about when and where to swim or participate in water activities.
 -	Don’t swim in murky water or near areas with known shark activity.
 -	Avoid wearing shiny dresses and jewelry when enter into water that could attract sharks.
 
