@@ -83,7 +83,7 @@ Based on the analysis of global shark attack data, here is a summary of analysis
 
 ## **``Insights``**:
 Based on the analysis of global shark attack data, I have created a comprehensive dashboard that presents all the data in a unified perspective. Which helps and empowers users to make informed decisions to save their lives from sharks while performing activities in the marine ecosystem.
-![Sample Image](./Images/Dashabord_shark_attack_file.jpg)
+![Sample Image](./Images/GSAF_dashboard.jpg)
 
 ## **``Recommendations``**:
 The end of the analysis involves gaining insights and providing safe measures from shark attacks to the general public who are even eager to perform recreational activities in coastal areas around the world.
